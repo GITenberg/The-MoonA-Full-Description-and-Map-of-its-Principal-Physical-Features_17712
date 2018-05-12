@@ -1,0 +1,28 @@
+_repo: The-MoonA-Full-Description-and-Map-of-its-Principal-Physical-Features_17712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elger, Thomas Gwyn
+    birthdate: 1838
+    deathdate: 1897
+    gutenberg_agent_id: '7561'
+    url: http://www.gutenberg.org/2009/agents/7561
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Gwyn_Elger
+description: ''
+gutenberg_issued: '2006-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17712'
+  lccn: 01005387
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moon'
+- !lcc 'QB'
+title: 'The Moon: A Full Description and Map of its Principal Physical Features'
+url: http://www.gutenberg.org/ebooks/17712
