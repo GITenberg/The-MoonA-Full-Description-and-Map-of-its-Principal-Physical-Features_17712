@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7561
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Gwyn_Elger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17712#The-MoonA-Full-Description-and-Map-of-its-Principal-Physical-Features
 gutenberg_issued: '2006-02-07'
 gutenberg_type: Text
 identifiers:
